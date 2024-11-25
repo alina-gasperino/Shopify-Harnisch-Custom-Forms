@@ -1,0 +1,47 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "text_LpNebJ": {
+          "type": "text",
+          "settings": {
+            "heading": "Direct Contact:",
+            "subtext": "<p><\/p><p><em><strong>Phone:<\/strong><\/em>       808 398 7775<\/p><p><em><strong>Mailing Address:<\/strong><\/em> 3831 Lurline Dr, Honolulu, HI 96816, US<\/p><h5><strong>Certified Personal Property Appraiser \/ Certified Appraisers Guild of America  \/ Certified Fine Arts Appraiser \/ International Fine Art Appraisers \/ Accredited: American Society of Estate Liquidators <\/strong><\/h5>"
+          }
+        },
+        "image_kqWWMJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/portrait-of-female-owner-of-fashion-store-standing-2024-10-22-08-41-43-utc.jpg",
+            "image_width": 395,
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "text_LpNebJ",
+        "image_kqWWMJ"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "newsletter_enable": false,
+        "newsletter_heading": "",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 56,
+        "padding_bottom": 16
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

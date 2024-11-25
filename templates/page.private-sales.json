@@ -1,0 +1,113 @@
+{
+  "sections": {
+    "slideshow_89yWRH": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "change_slides_heading_font": 16,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "slideshow_XWWWhM": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_GbfLgz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/estate_sale.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_8KFRD4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Grasons-2023-228-1-scaled-1_jpg.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_GbfLgz",
+        "slide_8KFRD4"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "change_slides_heading_font": 16,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "slideshow_RaG9Wm": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "change_slides_heading_font": 16,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "contact_form_hVAXqN": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_89yWRH",
+    "slideshow_XWWWhM",
+    "main",
+    "slideshow_RaG9Wm",
+    "contact_form_hVAXqN"
+  ]
+}

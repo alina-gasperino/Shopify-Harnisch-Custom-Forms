@@ -1,0 +1,86 @@
+<div id="hulk_form_wrapper">
+  <style>
+    #shopify-section-{{section.id}} #hulk_form_wrapper {
+      width: {{section.settings.wrapper_width}}px;
+      margin-left:auto;
+      margin-right:auto;
+    }
+    @media screen and (max-width: 500px) {
+      #shopify-section-{{section.id}} #hulk_form_wrapper {
+        width: 100%;
+      }
+    }
+  </style>
+  {%- if section.settings.show_modal -%}
+    <div class="modal_overlay"></div>
+    <div class="form_modal">
+      <div class="modal_header"><i class="fa fa-close" style="font-size:24px"></i></div>
+      <div class="modal_body">
+        <div style="margin:0 auto;" class="pxFormGenerator" id="02hvNUFPRQvgqg9IkaaIZQ"></div>
+      </div>    
+    </div>
+    <div class="form_content">
+      {%- if section.settings.title != blank -%}
+          <h1 class="h1">{{section.settings.title}}</h1>
+      {%- endif -%}
+      {%- if section.settings.description -%}
+          <div class="form_description">{{section.settings.description}}</div>
+      {%- endif -%}
+      <button class="book_service">Schedule an Estimate Service</button>
+    </div>
+  {% else %}    
+    <div class="form_content">
+        {%- if section.settings.title != blank -%}
+            <h1 class="h1">{{section.settings.title}}</h1>
+        {%- endif -%}
+        {%- if section.settings.description -%}
+            <div class="form_description">{{section.settings.description}}</div>
+        {%- endif -%}
+    </div>
+    <div style="margin:0 auto;" class="pxFormGenerator" id="02hvNUFPRQvgqg9IkaaIZQ"></div>
+  {%- endif -%}
+</div>
+
+{% schema %}
+  {
+    "name": "Estate Services Inquiry",
+    "tag": "section",
+    "class": "hulk_form",
+    "settings": [
+        {
+        "type": "text",
+        "id": "title",
+        "default": "Estate Services Inquiry Form",
+        "label": "Form Title"
+        },
+        {
+        "type": "inline_richtext",
+        "id": "description",
+        "default": "Contact Us",
+        "label": "Form Description"
+        },
+      {
+        "type": "range",
+        "id": "wrapper_width",
+        "min": 500,
+        "max": 1200,
+        "step": 50,
+        "default": 800,
+        "label": "Form Width"
+      },
+      {
+        "type": "checkbox",
+        "id": "show_modal",
+        "label": "Popup?",
+        "default": false
+        }
+    ],
+    "presets": [
+      {
+        "name": "Estate Services Inquiry Form",
+        "settings": {
+        }
+      }
+    ]
+  }
+{% endschema %}

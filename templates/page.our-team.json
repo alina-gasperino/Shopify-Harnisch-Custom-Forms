@@ -1,0 +1,214 @@
+{
+  "sections": {
+    "slideshow_d8CTkh": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_6b6xm9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_1.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_6b6xm9"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 9,
+        "change_slides_heading_font": 16,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Team"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_zrfrL4": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_BFxfUj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Andres Harnisch - CEO",
+            "heading_size": "h2"
+          }
+        },
+        "text_wpmKJj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Andres is passionate about caring for the cherished and valuable items that his clients entrust to him. He loves finding new collectors who want to preserve and invest in your treasures and helps them develop and maintain their collections.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BFxfUj",
+        "text_wpmKJj"
+      ],
+      "settings": {
+        "multiclass": "sec03",
+        "image": "shopify:\/\/shop_images\/Andres_4.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_H8bVJA": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_brXdDb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Maureen Harnisch - COO",
+            "heading_size": "h2"
+          }
+        },
+        "text_yXjpQe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Maureen is sensitive, and discreet, and works collaboratively with each client to bring professional organization and management to every project. She has assisted many island families in transition.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_brXdDb",
+        "text_yXjpQe"
+      ],
+      "settings": {
+        "multiclass": "sec03",
+        "image": "shopify:\/\/shop_images\/Maureen_3.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_96brfx": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_pgYcJQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bill Markevitch",
+            "heading_size": "h2"
+          }
+        },
+        "text_LUwCUj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bill has an extensive background in creative industries. He has an eye for being able to easily recognize collectible items and the creative talent to portray them in their best light.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pgYcJQ",
+        "text_LUwCUj"
+      ],
+      "settings": {
+        "multiclass": "sec03",
+        "image": "shopify:\/\/shop_images\/Bill_3.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_Ybizwk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6aQTHr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Also:",
+            "heading_size": "h2"
+          }
+        },
+        "text_9HA8dd": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>JOHN SERENI - Marketing and Promotions<\/strong><\/p><p><strong>WAYNE SMITH - Accounting and Bookkeeping<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6aQTHr",
+        "text_9HA8dd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 36
+      }
+    },
+    "contact_form_BKPMb4": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_d8CTkh",
+    "main",
+    "image_with_text_zrfrL4",
+    "image_with_text_H8bVJA",
+    "image_with_text_96brfx",
+    "rich_text_Ybizwk",
+    "contact_form_BKPMb4"
+  ]
+}

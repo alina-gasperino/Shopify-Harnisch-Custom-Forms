@@ -1,0 +1,93 @@
+{
+  "sections": {
+    "slideshow_d8CTkh": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_9YfrJf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/estate-sales-mission-viejo.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_hb4j4U": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/man-visiting-art-gallery-2023-11-27-04-56-53-utc.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_9YfrJf",
+        "slide_hb4j4U"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "change_slides_heading_font": 16,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 28
+      }
+    },
+    "contact_form_BKPMb4": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "appraisal_inquiry_form_hQMJd3": {
+      "type": "appraisal-inquiry-form",
+      "settings": {
+        "title": "Appraisal Inquiry Form",
+        "description": "Contact Us",
+        "wrapper_width": 800,
+        "show_modal": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_d8CTkh",
+    "main",
+    "contact_form_BKPMb4",
+    "appraisal_inquiry_form_hQMJd3"
+  ]
+}

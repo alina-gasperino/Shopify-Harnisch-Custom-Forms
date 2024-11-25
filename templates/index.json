@@ -1,0 +1,478 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frames-1.jpg",
+            "heading": "Discover the Beauty of Fine Art",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop art prints",
+            "link": "shopify:\/\/collections\/art",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_GXiW7H": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Charles_Bartlett-1.jpg",
+            "heading": "Discover the Beauty of Fine Art",
+            "heading_size": "h2",
+            "subheading": "<strong>ARTS & PAINTING<\/strong>",
+            "button_label": "Shop art prints",
+            "link": "shopify:\/\/collections\/art",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_GtKxta": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a-woman-stands-in-an-art-gallery-in-front-of-paintings.jpg",
+            "heading": "Discover the Beauty of Fine Art",
+            "heading_size": "h0",
+            "subheading": "<strong>ARTS & PAINTING<\/strong>",
+            "button_label": "Shop art prints",
+            "link": "shopify:\/\/collections\/art",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_64PeDU": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Japanese_Image-1.png",
+            "heading": "Discover the Beauty of Fine Art",
+            "heading_size": "h1",
+            "subheading": "<strong>ARTS & PAINTING<\/strong>",
+            "button_label": "Shop art prints",
+            "link": "shopify:\/\/collections\/art",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide-0",
+        "slide_GXiW7H",
+        "slide_GtKxta",
+        "slide_64PeDU"
+      ],
+      "custom_css": [
+        ".banner__buttons a {text-transform: uppercase; font-size: 11px; line-height: 14px; letter-spacing: 2px; font-weight: 600; display: flex; border-radius: 50px; justify-content: space-evenly; padding: 22px 40px !important; background-color: #fff; color: #000; position: relative; transition: all 0.4s; margin: 0; min-height: auto; border: none !important;}",
+        ".banner__buttons a:hover {background-color: rgb(202 146 54); color: rgb(255 255 255); border: none !important;}",
+        ".banner__buttons a:hover path {fill: rgb(255 255 255);}"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "change_slides_heading_font": 59,
+        "image_behavior": "ambient",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand."
+      }
+    },
+    "multicolumn_rCDDmL": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_yRyzxq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/smart-work.png",
+            "title": "Smart Work",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_trBnN7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/unique-design.png",
+            "title": "Unique Design",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_drwUMG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/team.png",
+            "title": "Skilled Team",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MCGtcA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/best-pricing.png",
+            "title": "Best Pricing",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_yRyzxq",
+        "column_trBnN7",
+        "column_drwUMG",
+        "column_MCGtcA"
+      ],
+      "disabled": true,
+      "settings": {
+        "multiclass": "sec02",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 60
+      }
+    },
+    "rich_text_PKMDcb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WW8UxT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Services",
+            "heading_size": "h1"
+          }
+        },
+        "text_qRfgQh": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Explore our bespoke services designed to handle your most valuable assets with care and discretion. From<strong> Appraisals to Private Sales and Comprehensive Estate Services<\/strong>, we provide solutions tailored to your unique needs.<\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WW8UxT",
+        "text_qRfgQh"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 56,
+        "padding_bottom": 4
+      }
+    },
+    "multirow_PtyHBH": {
+      "type": "multirow",
+      "blocks": {
+        "row_c7zHEq": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Art_Appaisal.jpg",
+            "caption": "Harnisch & Co.",
+            "heading": "Appraisals",
+            "text": "<p>The art appraisal process can seem overwhelming, but at Harnisch & Company, we aim to make it straightforward and accessible. Our formal appraisals for art, antiques, and collectibles offer an authoritative report, detailing your items and providing a value estimate tailored to your specific needs at the time of inspection.<\/p>",
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/pages\/appraisals"
+          }
+        },
+        "row_KaDWmX": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/estate_sale.jpg",
+            "caption": "Harnisch & Co.",
+            "heading": "Private Sales",
+            "text": "<p>Harnisch & Company's Private Sales offers a personalized service for buying and selling fine art, jewelry, watches, and other valuable pieces. This service provides clients with privacy, flexibility, and the convenience of completing transactions at their preferred pace.<\/p>",
+            "button_label": "Enquire Now",
+            "button_link": "shopify:\/\/pages\/brokerage"
+          }
+        },
+        "row_GzzTKi": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Movers_c5d0be77-625e-4698-b862-6c950d0ad7d3.jpg",
+            "caption": "Harnisch & Co.",
+            "heading": "Estate Services",
+            "text": "<p>Our full-service estate clean-out team provides prompt, efficient assistance tailored to ease the process of clearing out any residence. With a keen eye for valuable items, we identify opportunities to sell or appraise belongings, maximizing returns while ensuring a seamless clean-out experience.<\/p>",
+            "button_label": "Request Info",
+            "button_link": "shopify:\/\/pages\/estate-services"
+          }
+        }
+      },
+      "block_order": [
+        "row_c7zHEq",
+        "row_KaDWmX",
+        "row_GzzTKi"
+      ],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "scheme-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 40,
+        "padding_bottom": 12
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": false,
+        "padding_top": 56,
+        "padding_bottom": 0
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover rare and remarkable treasures that tell a story.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading"
+      ],
+      "settings": {
+        "multiclass": "sec03",
+        "image": "shopify:\/\/shop_images\/a-woman-in-an-art-gallery-ponders-a-degas-painting.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-5",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "image-with-text-1": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop Our Recent Acquisitions",
+            "heading_size": "h2"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop all",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "multiclass": "sec03",
+        "image": "shopify:\/\/shop_images\/Silver_Close_Up-2_copy.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-5",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 56
+      }
+    },
+    "collection_list_7eV6fF": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_K3EajC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "art"
+          }
+        },
+        "featured_collection_66KFDb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "antiques"
+          }
+        },
+        "featured_collection_NNdH9P": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jewelry-watches"
+          }
+        },
+        "featured_collection_UCF7ig": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "collectibles"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_K3EajC",
+        "featured_collection_66KFDb",
+        "featured_collection_NNdH9P",
+        "featured_collection_UCF7ig"
+      ],
+      "settings": {
+        "title": "Our Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "scheme-2",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_cKja7R": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_3mWDe8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Team",
+            "heading_size": "h1"
+          }
+        },
+        "text_JLqhBN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover the expertise and integrity behind one of Hawai’i’s premier consignment firms. With a dedication to preserving cultural treasures and a commitment to client satisfaction, Andres Harnisch Brokerage connects collectors with art, antiques, and collectibles from the islands and beyond.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_T8CQbV": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/pages\/our-team",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_3mWDe8",
+        "text_JLqhBN",
+        "button_T8CQbV"
+      ],
+      "settings": {
+        "multiclass": "sec03",
+        "image": "shopify:\/\/shop_images\/business-people-working-in-gallery-2023-11-27-04-50-05-utc.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "appraisal_inquiry_form_QE4bNM": {
+      "type": "appraisal-inquiry-form",
+      "settings": {
+        "title": "Appraisal Inquiry Form",
+        "description": "To better understand your appraisal requirements, please share a few details about the items you'd like appraised and their significance to you. This will help us deliver the most accurate and personalized service",
+        "wrapper_width": 800,
+        "show_modal": false
+      }
+    },
+    "estate_services_inquiry_form_qHnC76": {
+      "type": "estate-services-inquiry-form",
+      "settings": {
+        "title": "Estate Services Inquiry Form",
+        "description": "We look forward to assisting you with our comprehensive estate services, designed to simplify the process of downsizing personal property and homes. To help us better understand your needs, please share a few details about your project and the services you require. This will allow us to provide tailored solutions that best support you during this transition.",
+        "wrapper_width": 800,
+        "show_modal": false
+      }
+    },
+    "private_sales_inquiry_form_Yw4bNn": {
+      "type": "private-sales-inquiry-form",
+      "settings": {
+        "title": "Private Sales Inquiry Form",
+        "description": "We look forward to the opportunity to assist you in discreetly and efficiently rehoming your cherished fine art and collectibles. To better understand your needs, please share a few details about the items you'd like to sell and any preferences you may have for the sale process. This will help us provide a personalized service tailored to your requirements",
+        "wrapper_width": 800,
+        "show_modal": false
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "multicolumn_rCDDmL",
+    "rich_text_PKMDcb",
+    "multirow_PtyHBH",
+    "rich-text-1",
+    "image-with-text",
+    "image-with-text-1",
+    "collection_list_7eV6fF",
+    "image_with_text_cKja7R",
+    "appraisal_inquiry_form_QE4bNM",
+    "estate_services_inquiry_form_qHnC76",
+    "private_sales_inquiry_form_Yw4bNn"
+  ]
+}
