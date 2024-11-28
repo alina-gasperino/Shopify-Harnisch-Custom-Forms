@@ -11,7 +11,7 @@
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Shop art prints",
-            "link": "shopify:\/\/collections\/art",
+            "link": "shopify:\/\/collections\/art-old",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -29,7 +29,7 @@
             "heading_size": "h2",
             "subheading": "<strong>ARTS & PAINTING<\/strong>",
             "button_label": "Shop art prints",
-            "link": "shopify:\/\/collections\/art",
+            "link": "shopify:\/\/collections\/art-old",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -47,7 +47,7 @@
             "heading_size": "h0",
             "subheading": "<strong>ARTS & PAINTING<\/strong>",
             "button_label": "Shop art prints",
-            "link": "shopify:\/\/collections\/art",
+            "link": "shopify:\/\/collections\/art-old",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -65,7 +65,7 @@
             "heading_size": "h1",
             "subheading": "<strong>ARTS & PAINTING<\/strong>",
             "button_label": "Shop art prints",
-            "link": "shopify:\/\/collections\/art",
+            "link": "shopify:\/\/collections\/art-old",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -344,7 +344,7 @@
         "featured_collection_K3EajC": {
           "type": "featured_collection",
           "settings": {
-            "collection": "art"
+            "collection": "art-old"
           }
         },
         "featured_collection_66KFDb": {
@@ -432,33 +432,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "appraisal_inquiry_form_QE4bNM": {
-      "type": "appraisal-inquiry-form",
-      "settings": {
-        "title": "Appraisal Inquiry Form",
-        "description": "To better understand your appraisal requirements, please share a few details about the items you'd like appraised and their significance to you. This will help us deliver the most accurate and personalized service",
-        "wrapper_width": 800,
-        "show_modal": false
-      }
-    },
-    "estate_services_inquiry_form_qHnC76": {
-      "type": "estate-services-inquiry-form",
-      "settings": {
-        "title": "Estate Services Inquiry Form",
-        "description": "We look forward to assisting you with our comprehensive estate services, designed to simplify the process of downsizing personal property and homes. To help us better understand your needs, please share a few details about your project and the services you require. This will allow us to provide tailored solutions that best support you during this transition.",
-        "wrapper_width": 800,
-        "show_modal": false
-      }
-    },
-    "private_sales_inquiry_form_Yw4bNn": {
-      "type": "private-sales-inquiry-form",
-      "settings": {
-        "title": "Private Sales Inquiry Form",
-        "description": "We look forward to the opportunity to assist you in discreetly and efficiently rehoming your cherished fine art and collectibles. To better understand your needs, please share a few details about the items you'd like to sell and any preferences you may have for the sale process. This will help us provide a personalized service tailored to your requirements",
-        "wrapper_width": 800,
-        "show_modal": false
-      }
     }
   },
   "order": [
@@ -470,9 +443,6 @@
     "image-with-text",
     "image-with-text-1",
     "collection_list_7eV6fF",
-    "image_with_text_cKja7R",
-    "appraisal_inquiry_form_QE4bNM",
-    "estate_services_inquiry_form_qHnC76",
-    "private_sales_inquiry_form_Yw4bNn"
+    "image_with_text_cKja7R"
   ]
 }

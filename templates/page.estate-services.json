@@ -45,12 +45,22 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "estate_services_inquiry_form_X9XPWi": {
+      "type": "estate-services-inquiry-form",
+      "settings": {
+        "title": "Estate Services Inquiry Form",
+        "description": "To help us better understand your needs, please share a few details about your project and the services you require. This will allow us to provide tailored solutions that best support you during this transition.",
+        "wrapper_width": 800,
+        "show_modal": true
+      }
     }
   },
   "order": [
     "slideshow_89yWRH",
     "main",
     "slideshow_RaG9Wm",
-    "contact_form_erP6Wt"
+    "contact_form_erP6Wt",
+    "estate_services_inquiry_form_X9XPWi"
   ]
 }

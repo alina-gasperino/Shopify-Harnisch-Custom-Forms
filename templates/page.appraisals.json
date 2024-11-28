@@ -63,22 +63,11 @@
         "padding_bottom": 28
       }
     },
-    "contact_form_BKPMb4": {
-      "type": "contact-form",
-      "disabled": true,
-      "settings": {
-        "heading": "Contact form",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "appraisal_inquiry_form_hQMJd3": {
       "type": "appraisal-inquiry-form",
       "settings": {
         "title": "Appraisal Inquiry Form",
-        "description": "Contact Us",
+        "description": "To better understand your appraisal requirements, please share a few details about the items you'd like appraised and their significance to you. This will help us deliver the most accurate and personalized service",
         "wrapper_width": 800,
         "show_modal": true
       }
@@ -87,7 +76,6 @@
   "order": [
     "slideshow_d8CTkh",
     "main",
-    "contact_form_BKPMb4",
     "appraisal_inquiry_form_hQMJd3"
   ]
 }

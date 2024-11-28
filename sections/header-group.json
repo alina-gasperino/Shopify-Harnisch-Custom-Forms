@@ -48,6 +48,7 @@
         "text_RY3Ati",
         "html_DpPppV"
       ],
+      "disabled": true,
       "custom_css": [
         "ul {font-size: 13px; color: #fff; letter-spacing: -0.035em; font-weight: 600; text-transform: capitalize !important; align-items: center !important; display: flex !important; padding-left: 0; list-style: none; margin-top: 0; margin-bottom: 0 !important; justify-content: end;}",
         "ul li a {color: #fff; font-weight: 500; font-size: 13px; outline: none !important; text-decoration: none;}",
