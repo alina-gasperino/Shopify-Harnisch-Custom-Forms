@@ -44,37 +44,34 @@
         "padding_bottom": 28
       }
     },
-    "image_with_text_zrfrL4": {
-      "type": "image-with-text",
+    "team_bio_FKT9UU": {
+      "type": "team-bio",
       "blocks": {
-        "heading_BFxfUj": {
+        "heading_U8r3Bi": {
           "type": "heading",
           "settings": {
             "heading": "Andres Harnisch - CEO",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
-        "text_wpmKJj": {
+        "text_DzHgGV": {
           "type": "text",
           "settings": {
-            "text": "<p>Andres is passionate about caring for the cherished and valuable items that his clients entrust to him. He loves finding new collectors who want to preserve and invest in your treasures and helps them develop and maintain their collections.<\/p>",
+            "text": "<p>Andres is passionate about caring for the cherished and valuable items that his clients entrust to him. He loves finding new collectors who want to preserve and invest in your treasures and helps them develop and maintain their collections.<\/p><p>With a steadfast commitment to client satisfaction, Andres approaches each assignment with the utmost discretion and integrity. Every item entrusted to Harnisch & Company is meticulously researched to uncover its unique history and value, ensuring it is presented to the ideal market for maximum impact. This dedication to thoroughness and precision reflects his deep respect for the cherished and valuable possessions his clients entrust to his care. Andres’s leadership, Harnisch & Company has built a robust online presence, offering clients a global platform for the sale and promotion of fine art, antiques, jewelry, and collectibles. By curating an extensive and diverse inventory, the company not only attracts buyers seeking specific treasures but also inspires them to explore and expand their collections further.<\/p><p>Andres is passionate about connecting collectors with meaningful pieces that preserve history and reflect artistry. His work bridges generations, helping new collectors discover and invest in timeless treasures while fostering the legacy of his clients’ prized possessions. His expertise, combined with a genuine love for his craft, makes Harnisch & Company a trusted partner in the appraisal and brokerage of exceptional items.<\/p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading_BFxfUj",
-        "text_wpmKJj"
+        "heading_U8r3Bi",
+        "text_DzHgGV"
       ],
       "settings": {
-        "multiclass": "sec03",
         "image": "shopify:\/\/shop_images\/Andres_4.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
         "section_color_scheme": "",
         "color_scheme": "",
         "image_behavior": "none",
@@ -205,7 +202,7 @@
   "order": [
     "slideshow_d8CTkh",
     "main",
-    "image_with_text_zrfrL4",
+    "team_bio_FKT9UU",
     "image_with_text_H8bVJA",
     "image_with_text_96brfx",
     "rich_text_Ybizwk",

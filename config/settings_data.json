@@ -2,6 +2,7 @@
   "current": {
     "logo": "shopify:\/\/shop_images\/H_C_Horizontal.jpg",
     "logo_width": 300,
+    "favicon": "shopify:\/\/shop_images\/harnsich_fav.png",
     "type_header_font": "playfair_display_n4",
     "heading_scale": 100,
     "type_body_font": "playfair_display_n4",
@@ -143,6 +144,14 @@
         "type": "shopify:\/\/apps\/hulk-form-builder\/blocks\/app-embed\/b6b8dd14-356b-4725-a4ed-77232212b3c3",
         "disabled": false,
         "settings": {}
+      },
+      "4912811683585195618": {
+        "type": "shopify:\/\/apps\/smartpopup-promotion-popup\/blocks\/app-embed\/6b7effb0-33e7-433c-acc7-0a98ef2f9da6",
+        "disabled": true,
+        "settings": {
+          "popups": "{}",
+          "filter": "{}"
+        }
       }
     },
     "color_schemes": {
