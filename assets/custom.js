@@ -32,10 +32,8 @@ $(document).ready(function () {
 
     if (!getCookie('firstTimeVisitorPopup')) {
         setCookie('firstTimeVisitorPopup', 'true', 30);
-        console.log("new visitor")
     }
     else {
-        console.log("recurring visitor")
         $("#sca-p-popup-main-popup-container").hide()
     }
 });
